@@ -26,8 +26,8 @@
 <div align="center">
   <h2>🚀 GitHub Activity</h2>
   <p>Check out my daily GitHub contributions, where each commit tells a story of progress, problem-solving, and innovation. Whether it's refining code, fixing bugs, or collaborating on exciting projects, my activity showcases a dedication to continuous learning and improvement. Explore my commit history for a deeper look at the work driving these advancements!</p>
-  <img src="https://raw.githubusercontent.com/Mclovin/Mclovin/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/Mclovin/Mclovin/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <img src="https://raw.githubusercontent.com/McLovinIt101/McLovinIt101/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/McLovinIt101/McLovinIt101/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <div align="center">
